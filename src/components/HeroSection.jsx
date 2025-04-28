@@ -18,6 +18,7 @@ const HeroSection = () => {
         <div className="mt-10 md:mt-0">
           <img 
             src="https://images.unsplash.com/photo-1603415526960-f8f0b4ef3ec9" 
+            // src="https://media.istockphoto.com/id/1358280405/fr/photo/homme-daffaires-confiant-dans-son-bureau.webp?a=1&b=1&s=612x612&w=0&k=20&c=MArBp2cUE-zyz_0HkbBtsN6Uw3yBzgopRmqGtlOY8rs=" 
             alt="Hero" 
             className="w-full max-w-md rounded-2xl shadow-lg"
           />
