@@ -1,5 +1,3 @@
-// src/components/Sidebar.jsx
-
 import React from 'react';
 
 export function Sidebar() {
